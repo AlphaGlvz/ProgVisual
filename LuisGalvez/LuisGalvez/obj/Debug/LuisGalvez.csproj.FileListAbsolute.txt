@@ -1,0 +1,6 @@
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\bin\Debug\LuisGalvez.exe
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\bin\Debug\LuisGalvez.pdb
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\obj\Debug\LuisGalvez.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\obj\Debug\LuisGalvez.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\obj\Debug\LuisGalvez.exe
+C:\Users\Alpha\source\repos\LuisGalvez\LuisGalvez\obj\Debug\LuisGalvez.pdb
