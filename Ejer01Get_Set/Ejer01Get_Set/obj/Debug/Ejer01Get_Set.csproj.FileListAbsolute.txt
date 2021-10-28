@@ -1,0 +1,6 @@
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\bin\Debug\Ejer01Get_Set.exe
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\bin\Debug\Ejer01Get_Set.pdb
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\obj\Debug\Ejer01Get_Set.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\obj\Debug\Ejer01Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\obj\Debug\Ejer01Get_Set.exe
+C:\Users\Alpha\source\repos\Ejer01Get_Set\Ejer01Get_Set\obj\Debug\Ejer01Get_Set.pdb
