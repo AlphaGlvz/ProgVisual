@@ -1,0 +1,6 @@
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\bin\Debug\ExamenLuisGalvez1905.exe
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\bin\Debug\ExamenLuisGalvez1905.pdb
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\obj\Debug\ExamenLuisGalvez1905.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\obj\Debug\ExamenLuisGalvez1905.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\obj\Debug\ExamenLuisGalvez1905.exe
+C:\Users\Alpha\source\repos\ExamenLuisGalvez1905\ExamenLuisGalvez1905\obj\Debug\ExamenLuisGalvez1905.pdb
