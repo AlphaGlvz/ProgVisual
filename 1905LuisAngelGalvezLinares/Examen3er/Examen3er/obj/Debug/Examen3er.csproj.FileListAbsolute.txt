@@ -1,0 +1,9 @@
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\bin\Debug\Examen3er.exe
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\bin\Debug\Examen3er.pdb
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.Form1.resources
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.Properties.Resources.resources
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.csproj.GenerateResource.cache
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.exe
+C:\Users\Alpha\source\repos\Examen3er\Examen3er\obj\Debug\Examen3er.pdb
